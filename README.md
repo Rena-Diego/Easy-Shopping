@@ -11,3 +11,8 @@
 <br>
 <br>
  <h3> O legal é que este é um projeto Responsível</h3>
+<br>
+<br>
+<img src="https://github.com/Rena-Diego/Easy-Shopping/blob/master/Captura%20de%20tela%202025-01-08%20205639.png?raw=true" />
+
+<p> Como podem ver ele fica perfeito tanto no Computador como no Celular, se adaptando de acordo com o tamanho da tela.</p>
